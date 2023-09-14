@@ -1,0 +1,25 @@
+p {
+    font-size: 16px;
+    color: #333;
+}
+.container {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+
+.container p {
+    font-weight: bold;
+}
+
+
+.box {
+    background-color: lightcoral;
+    padding: 10px;
+}
+
+
+.box p {
+    font-style: italic;
+    color: darkred;
+}

@@ -1,0 +1,19 @@
+.decorated-paragraph::before {
+    content: "🌟 ";
+}
+
+.decorated-paragraph::after {
+    content: " 🌟";
+}
+
+.decorated-box::before {
+    content: "📦";
+    font-size: 24px;
+    color: #3498db;
+}
+
+.decorated-box::after {
+    content: " 📦";
+    font-size: 24px;
+    color: #e74c3c;
+}

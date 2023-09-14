@@ -1,0 +1,14 @@
+.rotate-button {
+    width: 100px;
+    height: 40px;
+    background-color: lightblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.rotate-button:hover {
+    transform: rotate(360deg);
+    background-color: lightcoral;
+}
