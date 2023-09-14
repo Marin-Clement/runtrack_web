@@ -1,0 +1,25 @@
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 20px;
+    text-align: center;
+}
+
+.margin-box {
+    margin: 20px;
+}
+
+.border-box {
+    border: 2px solid darkblue;
+}
+
+.padding-box {
+    padding: 20px;
+}
+
+.content-box {
+    content: "Modified Content";
+    background-color: lightcoral;
+    color: white;
+}

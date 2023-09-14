@@ -1,0 +1,22 @@
+.block {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.block__element {
+    background-color: lightcoral;
+    padding: 10px;
+}
+
+.block__element--modifier {
+    background-color: lightgreen;
+    padding: 5px;
+}
+
+.block__text,
+.block__element__text,
+.block__element--modifier__text {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+p {
+    color: blue;
+}
+
+p.important {
+    font-weight: bold;
+}
+
+#container {
+    border: 1px solid black;
+}
+
+a[href="https://www.example.com"] {
+    text-decoration: none;
+    color: green;
+}
+
+ul li:nth-child(odd) {
+    background-color: #f0f0f0;
+}
